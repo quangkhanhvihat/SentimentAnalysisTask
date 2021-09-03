@@ -7,7 +7,8 @@ Task phân loại câu.
   + folder4 accuracy: 0.7714
   + folder5 accuracy: 0.7195
   + Kết quả trung bình là: 0.7613
--Khi chọn padding là pos-padding và embedding là CBOW thì kết quả 5 folder lần lượt là: 
+
+- Khi chọn padding là pos-padding và embedding là CBOW thì kết quả 5 folder lần lượt là: 
   + folder1 accuracy: 0.7414
   + folder2 accuracy: 0.7861
   + folder3 accuracy: 0.8224
